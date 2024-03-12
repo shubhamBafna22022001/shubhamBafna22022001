@@ -7,7 +7,7 @@ I'm passionate about coding and enjoy exploring different projects primarily for
 This web application allows users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. Deployed on Google Cloud Platform (GCP). You can access the live deployment of this project [here](https://shubh22022001.wm.r.appspot.com/).
 
 ### Here are some of my currently active deployed projects:
-You can access the live deployment of this project [here](haematocon2023.com) : 
+You can access the live deployment of this project [here](https://haematocon2023.com/) : 
 A project I've been working on to showcase my skills and interests in web development. Check it out to see some of my latest work!
 
 ### About Me
