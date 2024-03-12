@@ -14,7 +14,15 @@ A project I've been working on to showcase my skills and interests in web develo
 
 ### About Me
 💻 Coding enthusiast with a strong foundation in various programming languages and frameworks.
+
+
 💡 I believe in coding for the love of it, with money being a discretionary factor.
+
+
 🍳 Outside of coding, I enjoy cooking up delicious meals and staying fit through calisthenics.
+
+
 💪 I have a strong base in calisthenics, with expertise in push-ups, pull-ups, basic deadlifts (PR - 110KGs), and weighted squats (100KG).
+
+
 Feel free to explore my projects and reach out if you'd like to collaborate or connect!
