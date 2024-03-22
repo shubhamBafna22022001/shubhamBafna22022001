@@ -22,7 +22,7 @@ A project I've been working on to showcase my skills and interests in web develo
 🍳 Outside of coding, I enjoy cooking up delicious meals and staying fit through calisthenics.
 
 
-💪 I have a strong base in calisthenics, with expertise in push-ups, pull-ups, basic deadlifts (PR - 110KGs), and weighted squats (100KG).
+💪 I have a strong base in calisthenics, with expertise in bodyweight training.
 
 
 Feel free to explore my projects and reach out if you'd like to collaborate or connect!
