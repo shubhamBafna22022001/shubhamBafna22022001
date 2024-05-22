@@ -12,6 +12,14 @@ This web application allows users to search for stock information, visualize sto
 You can access the live deployment of this project [here](https://haematocon2023.com/) : 
 A project I've been working on to showcase my skills and interests in web development. Check it out to see some of my latest work!
 
+### River Route Website (Internship)
+River Route Creative Group Website
+Developed this website for River Route Creative Group, LLP Mumbai during my internship. It was one of my first websites, built alongside my undergraduate academic work.
+
+Deployed at: [River Route Creative Group](https://www.riverroute.in/)
+Features: Custom design, Responsive layout, User-friendly navigation, Content management system
+Technologies used :  HTML5, CSS3, JavaScript, Bootstrap
+
 ### About Me
 💻 Coding enthusiast with a strong foundation in various programming languages and frameworks.
 
