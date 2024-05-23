@@ -3,9 +3,9 @@
 ### Welcome to my GitHub profile! 👋
 I'm passionate about coding and enjoy exploring different projects primarily for fun. While I do appreciate the value of financial compensation, my main drive comes from the joy of coding and building.
 
-### Here are some of my currently active deployed projects:
+# Here are some of my currently active deployed projects:
 
-# StockSearch-MEAN-stack | Angular.js, Node.js
+### StockSearch-MEAN-stack | Angular.js, Node.js
 
 StockSearch-MEAN-stack is a responsive web app hosted on Google Cloud Platform (GCP) that allows users to search for stock information, manage watchlists, and track portfolios. 
 It uses a tech stack consisting of HTML5, Bootstrap, Angular, Angular Material, Node.js, Express.js, Finnhub API, Polygon.io API, Highcharts API, and MongoDB Atlas.
