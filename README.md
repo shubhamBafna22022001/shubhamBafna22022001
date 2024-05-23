@@ -7,6 +7,7 @@ I'm passionate about coding and enjoy exploring different projects primarily for
 
 ### Stock Information Web Application: 
 This web application allows users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. Deployed on Google Cloud Platform (GCP). You can access the live deployment of this project [here](https://shubh22022001.wm.r.appspot.com/).
+Technologies used : HTML5, CSS3, JavaScript, Python Flask as Backend
 
 ### OncoNavigator for Roche (Internship)
 This tool visually describes various patient conditions and their corresponding treatments, helping doctors make accurate decisions and improving patient retention rates. 
