@@ -5,15 +5,33 @@ I'm passionate about coding and enjoy exploring different projects primarily for
 
 ### Here are some of my currently active deployed projects:
 
-### Stock Information Web Application: 
-This web application allows users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. Deployed on Google Cloud Platform (GCP). You can access the live deployment of this project [here](https://shubh22022001.wm.r.appspot.com/).
-Technologies used : HTML5, CSS3, JavaScript, Python Flask as Backend
+# StockSearch-MEAN-stack | Angular.js, Node.js
+
+StockSearch-MEAN-stack is a responsive web app hosted on Google Cloud Platform (GCP) that allows users to search for stock information, manage watchlists, and track portfolios. 
+It uses a tech stack consisting of HTML5, Bootstrap, Angular, Angular Material, Node.js, Express.js, Finnhub API, Polygon.io API, Highcharts API, and MongoDB Atlas.
+
+- Live deployment: [StockSearch-MEAN-stack](https://shubhie22.wm.r.appspot.com/)
+- Demo video: [Watch the demo](https://drive.google.com/file/d/1mWc04X7vy8GwKkTgFgsLHIKvuCygMoro/view?usp=sharing)
+- Responsive Demo - [Watch the demo](https://drive.google.com/file/d/17z5bImuNK6So0WQ0mdNiFz0bGUj-sEZR/view?usp=sharing)
+
+
+# StockSearch-Android
+StockSearch-Android : This Android App is a mobile application that complements the StockSearch-MEAN-stack web app.
+It allows users to access stock information, manage watchlists, and track portfolios on their Android devices. 
+You can watch a demo of the app [here](https://drive.google.com/file/d/1QR7oBQsvEGCKmPzjUmlVBwrVjbzIpyeZ/view?usp=sharing).
+
+
+### Stock Information Web Application | HTML5, CSS3, JavaScript, Flask
+- This web application allows users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. Deployed on Google Cloud Platform (GCP). 
+- You can access the live deployment of this project [here](https://shubh22022001.wm.r.appspot.com/).
+- Demo video: [Watch the demo](https://drive.google.com/file/d/12Pmdc2FXQZTXS3JNwTU16ug1YSArIrwz/view?usp=sharing)
+
+- Technologies used : HTML5, CSS3, JavaScript, Python Flask as Backend
 
 ### OncoNavigator for Roche (Internship)
 This tool visually describes various patient conditions and their corresponding treatments, helping doctors make accurate decisions and improving patient retention rates. 
 The application was developed for [Roche](https://www.roche.com/), a multinational corporation based in Switzerland operating in the pharmaceuticals and diagnostics industry. 
-Deployed at: [here](https://test.onconavigator.in/).
-
+- Deployed at: [here](https://test.onconavigator.in/).
 
 ### Haematocon event (Internship)
 You can access the live deployment of this project [here](https://haematocon2023.com/) : 
@@ -34,7 +52,7 @@ Technologies used :  HTML5, CSS3, JavaScript, Bootstrap
 💡 I believe in coding for the love of it, with money being a discretionary factor.
 
 
-🍳 Outside of coding, I enjoy cooking up delicious meals and staying fit through calisthenics.
+🥑 Outside of coding, I enjoy cooking up delicious meals and staying fit through calisthenics.
 
 
 💪 I have a strong base in calisthenics, with expertise in bodyweight training.
