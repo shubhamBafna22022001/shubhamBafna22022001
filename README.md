@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Shubham
 
 ### Welcome to my GitHub profile! 👋
-I'm passionate about coding and enjoy exploring different projects primarily for fun. While I do appreciate the value of financial compensation, my main drive comes from the joy of coding and building.
+I'm passionate about coding and enjoy exploring different projects primarily for fun. While I do appreciate the value of Monetary compensation, my main drive comes from the joy of coding and building.
 
 # Here are some of my currently active deployed projects:
 
@@ -22,8 +22,10 @@ You can watch a demo of the app [here](https://drive.google.com/file/d/1QR7oBQsv
 
 
 ### Stock Information Web Application | HTML5, CSS3, JavaScript, Flask
-- This web application allows users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. Deployed on Google Cloud Platform (GCP). 
+- This web application allows users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. Deployed on Google Cloud Platform (GCP).
+  
 - You can access the live deployment of this project [here](https://shubh22022001.wm.r.appspot.com/).
+  
 - Demo video: [Watch the demo](https://drive.google.com/file/d/12Pmdc2FXQZTXS3JNwTU16ug1YSArIrwz/view?usp=sharing)
 
 - Technologies used : HTML5, CSS3, JavaScript, Python Flask as Backend
@@ -31,10 +33,13 @@ You can watch a demo of the app [here](https://drive.google.com/file/d/1QR7oBQsv
 ### OncoNavigator for Roche (Internship) | React.js, Node.js, MySQL
 This tool visually describes various patient conditions and their corresponding treatments, helping doctors make accurate decisions and improving patient retention rates. 
 The application was developed for [Roche](https://www.roche.com/), a multinational corporation based in Switzerland operating in the pharmaceuticals and diagnostics industry. 
+
 - Deployed at: [here](https://test.onconavigator.in/).
 
+
 ### Haematocon event (Internship)
-You can access the live deployment of this project [here](https://haematocon2023.com/) : 
+You can access the live deployment of this project [here](https://haematocon2023.com/) 
+
 Founded and Built this website for River Route Creative Group, LLP Mumbai during my internship to showcase my skills and interests in web development.
 
 ### River Route Website (Internship)
@@ -42,6 +47,7 @@ River Route Creative Group Website
 Founded and Built this website for River Route Creative Group, LLP Mumbai during my internship. It was one of my first websites, built alongside my undergraduate academic work.
 
 Deployed at: [River Route Creative Group](https://www.riverroute.in/)
+
 Features: Custom design, Responsive layout, User-friendly navigation, Content management system
 Technologies used :  HTML5, CSS3, JavaScript, Bootstrap
 
