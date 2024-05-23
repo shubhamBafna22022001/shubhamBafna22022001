@@ -28,7 +28,7 @@ You can watch a demo of the app [here](https://drive.google.com/file/d/1QR7oBQsv
 
 - Technologies used : HTML5, CSS3, JavaScript, Python Flask as Backend
 
-### OncoNavigator for Roche (Internship)
+### OncoNavigator for Roche (Internship) | React.js, Node.js, MySQL
 This tool visually describes various patient conditions and their corresponding treatments, helping doctors make accurate decisions and improving patient retention rates. 
 The application was developed for [Roche](https://www.roche.com/), a multinational corporation based in Switzerland operating in the pharmaceuticals and diagnostics industry. 
 - Deployed at: [here](https://test.onconavigator.in/).
