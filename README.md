@@ -43,7 +43,7 @@ StockSearch-Android is a mobile application that complements the StockSearch-MEA
 This tool visually describes various patient conditions and their corresponding treatments, helping doctors make accurate decisions and improving patient retention rates. 
 The application was developed for [Roche](https://www.roche.com/), a multinational corporation based in Switzerland operating in the pharmaceuticals and diagnostics industry. 
 
-- Deployed at: [here](https://test.onconavigator.in/).
+- Deployed at: [here](https://test.onconavigator.in/) (currently maintained by Roche and may require internal credentials).
 
 
 ### Haematocon event (Internship)
