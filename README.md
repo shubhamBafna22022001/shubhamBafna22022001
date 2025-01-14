@@ -14,10 +14,17 @@ It uses a tech stack consisting of HTML5, Bootstrap, Angular, Angular Material, 
 - Demo video: [Watch the demo](https://drive.google.com/file/d/1mWc04X7vy8GwKkTgFgsLHIKvuCygMoro/view?usp=sharing)
 - Responsive Demo - [Watch the demo](https://drive.google.com/file/d/17z5bImuNK6So0WQ0mdNiFz0bGUj-sEZR/view?usp=sharing)
 
-
 ### StockSearch-Android
-StockSearch-Android : This Android App is a mobile application that complements the StockSearch-MEAN-stack web app.
-It allows users to access stock information, manage watchlists, and track portfolios on their Android devices. 
+
+**Description:**
+StockSearch-Android is a mobile application that complements the StockSearch-MEAN-stack web app, enabling users to access stock information, manage watchlists, and track portfolios seamlessly on their Android devices. This app was developed using **Android Studio**, leveraging the **Java** programming language and **RESTful APIs** to fetch real-time stock data.
+
+**Key Features:**
+- **Real-time Stock Data**: Access live stock prices and detailed information.
+- **Watchlist Management**: Add, remove, and manage stocks in your personalized watchlist.
+- **Portfolio Tracking**: Monitor your stock portfolio’s performance in real-time.
+- **Interactive UI**: User-friendly interface designed for easy navigation and accessibility.
+- **API Integration**: Integrated with Finnhub and Polygon.io APIs to fetch accurate stock market data.
 
 **Demo Videos:**
 - [Original demo showcasing the app](https://drive.google.com/file/d/1QR7oBQsvEGCKmPzjUmlVBwrVjbzIpyeZ/view?usp=sharing)
