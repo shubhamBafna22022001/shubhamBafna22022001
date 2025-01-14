@@ -19,8 +19,9 @@ It uses a tech stack consisting of HTML5, Bootstrap, Angular, Angular Material, 
 StockSearch-Android : This Android App is a mobile application that complements the StockSearch-MEAN-stack web app.
 It allows users to access stock information, manage watchlists, and track portfolios on their Android devices. 
 
-You can watch a demo of the app [here](https://drive.google.com/file/d/1QR7oBQsvEGCKmPzjUmlVBwrVjbzIpyeZ/view?usp=sharing).
-
+**Demo Videos:**
+- [Original demo showcasing the app](https://drive.google.com/file/d/1QR7oBQsvEGCKmPzjUmlVBwrVjbzIpyeZ/view?usp=sharing)
+- [New demo including the development environment and code details](https://drive.google.com/file/d/17VpNRr8luGHnrI63ozan7Q-B3a25TMIK/view?usp=sharing)
 
 ### Stock Information Web Application | HTML5, CSS3, JavaScript, Flask
 - This web application allows users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. Deployed on Google Cloud Platform (GCP).
