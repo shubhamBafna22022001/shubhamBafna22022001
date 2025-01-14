@@ -45,11 +45,12 @@ The application was developed for [Roche](https://www.roche.com/), a multination
 
 - Deployed at: [here](https://test.onconavigator.in/) (currently maintained by Roche and may require internal credentials).
 
+### Haematocon Event (Internship)
 
-### Haematocon event (Internship)
-You can access the live deployment of this project [here](https://haematocon2023.com/) 
+Founded and built this website for River Route Creative Group, LLP Mumbai during my internship to showcase my skills and interests in web development.
 
-Founded and Built this website for River Route Creative Group, LLP Mumbai during my internship to showcase my skills and interests in web development.
+- Note: The live deployment can be accessed [here](https://haematocon2023.com). Please note that the site is no longer under my control, and if you encounter a security warning in Chrome, it may be due to an expired SSL certificate.
+
 
 ### River Route Website (Internship)
 River Route Creative Group Website
