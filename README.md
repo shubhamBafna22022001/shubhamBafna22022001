@@ -30,6 +30,20 @@ StockSearch-Android is a mobile application that complements the StockSearch-MEA
 - [Original demo showcasing the app](https://drive.google.com/file/d/1QR7oBQsvEGCKmPzjUmlVBwrVjbzIpyeZ/view?usp=sharing)
 - [New demo including the development environment and code details](https://drive.google.com/file/d/17VpNRr8luGHnrI63ozan7Q-B3a25TMIK/view?usp=sharing)
 
+### Maby – Baby Tracker for iOS/watchOS
+
+Maby is an intuitive baby tracking app designed to help parents monitor their baby's daily routines—sleep, feedings, diaper changes, and more. Developed for both iOS and watchOS, this open-source project provides a convenient solution to those everyday questions like _"How many times did my baby pee today?"_, making parental life a little easier.
+
+**Key Features:**
+- **Real-Time Tracking:** Quickly log sleep, feedings, and diaper changes.
+- **Cloud Integration:** Uses CloudKit for seamless data sync (requires a paid developer account for full functionality; can be disabled for local builds).
+- **Companion watchOS App:** Enables swift entries during busy moments.
+- **User-Friendly Interface:** Optimized for simplicity and ease of use.
+
+**Demo Video:**  
+[Watch the demo](https://drive.google.com/file/d/1-w3vRJ0pSI0ikDwiU8N-w1b34DTuaFAM/view?usp=drive_link)
+
+
 ### Stock Information Web Application | HTML5, CSS3, JavaScript, Flask
 - This web application allows users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. Deployed on Google Cloud Platform (GCP).
   
