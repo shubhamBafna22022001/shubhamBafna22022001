@@ -2,6 +2,7 @@
 
 ### Welcome to my GitHub profile! 👋
 I'm passionate about coding and enjoy exploring different projects primarily for fun. 
+
 While I do appreciate the value of monetary compensation, my main drive comes from the joy of coding and building.
 
 ---
