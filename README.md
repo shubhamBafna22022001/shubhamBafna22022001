@@ -1,7 +1,8 @@
 ### Hi there 👋, I am Shubham
 
 ### Welcome to my GitHub profile! 👋
-I'm passionate about coding and enjoy exploring different projects primarily for fun. While I do appreciate the value of monetary compensation, my main drive comes from the joy of coding and building.
+I'm passionate about coding and enjoy exploring different projects primarily for fun. 
+While I do appreciate the value of monetary compensation, my main drive comes from the joy of coding and building.
 
 ---
 
@@ -22,52 +23,52 @@ StockSearch-MEAN-stack is a responsive web app hosted on Google Cloud Platform (
 ### 📱 StockSearch-Android
 
 **Description:**  
-StockSearch-Android is a mobile application that complements the StockSearch-MEAN-stack web app, enabling users to access stock information, manage watchlists, and track portfolios seamlessly on their Android devices. Developed using **Android Studio** with **Java**, the app utilizes **RESTful APIs** to deliver real-time stock data.
+StockSearch-Android is a mobile application that complements the StockSearch-MEAN-stack web app, enabling users to access stock information, manage watchlists, and track portfolios seamlessly on their Android devices. This app was developed using **Android Studio**, leveraging the **Java** programming language and **RESTful APIs** to fetch real-time stock data.
 
 **Key Features:**
 - **Real-time Stock Data:** Access live stock prices and detailed information.
-- **Watchlist Management:** Easily add, remove, and manage stocks.
-- **Portfolio Tracking:** Monitor your portfolio’s performance in real time.
-- **Interactive UI:** A user-friendly interface designed for seamless navigation.
-- **API Integration:** Connects with Finnhub and Polygon.io APIs to fetch accurate stock market data.
+- **Watchlist Management:** Add, remove, and manage stocks in your personalized watchlist.
+- **Portfolio Tracking:** Monitor your stock portfolio’s performance in real time.
+- **Interactive UI:** User-friendly interface designed for easy navigation and accessibility.
+- **API Integration:** Integrated with Finnhub and Polygon.io APIs to fetch accurate stock market data.
 
 **Demo Videos:**
 - [Original demo showcasing the app](https://drive.google.com/file/d/1QR7oBQsvEGCKmPzjUmlVBwrVjbzIpyeZ/view?usp=sharing)
-- [New demo with development environment and code details](https://drive.google.com/file/d/17VpNRr8luGHnrI63ozan7Q-B3a25TMIK/view?usp=sharing)
+- [New demo including the development environment and code details](https://drive.google.com/file/d/17VpNRr8luGHnrI63ozan7Q-B3a25TMIK/view?usp=sharing)
 
 ---
 
 ### 👶 Maby – Baby Tracker for iOS/watchOS
 
-Maby is an intuitive baby tracking app designed to help parents monitor their baby's daily routines—sleep, feedings, diaper changes, and more. Developed for both iOS and watchOS, this open-source project makes tracking simple and straightforward.
+Maby is an intuitive baby tracking app designed to help parents monitor their baby's daily routines—sleep, feedings, diaper changes, and more. Developed for both iOS and watchOS, this open-source project provides a convenient solution to those everyday questions like _"How many times did my baby pee today?"_, making parental life a little easier.
 
 **Key Features:**
 - **Real-Time Tracking:** Quickly log sleep, feedings, and diaper changes.
-- **Cloud Integration:** Leverages CloudKit for seamless data sync (*requires a paid developer account for full functionality; can be disabled for local builds*).
-- **Companion watchOS App:** Swift entry capabilities during busy moments.
-- **User-Friendly Interface:** Designed for simplicity and ease of use.
+- **Cloud Integration:** Uses CloudKit for seamless data sync (requires a paid developer account for full functionality; can be disabled for local builds).
+- **Companion watchOS App:** Enables swift entries during busy moments.
+- **User-Friendly Interface:** Optimized for simplicity and ease of use.
 
 **Demo Video:**  
 [Watch the demo](https://drive.google.com/file/d/1-w3vRJ0pSI0ikDwiU8N-w1b34DTuaFAM/view?usp=drive_link)
 
-For more details and documentation, check out the repository:  
-[Shubham_My_Baby_Maby](https://github.com/shubhamBafna22022001/Shubham_My_Baby_Maby).
+For comprehensive details and documentation, please refer to the repository:  
+[Shubham_My_Baby_Maby](https://github.com/shubhamBafna22022001/Shubham_My_Baby_Maby). **The README includes relevant screenshots.**
 
 ---
 
 ### 💻 Stock Information Web Application | HTML5, CSS3, JavaScript, Flask
 
-This web application lets users search for stock information, visualize stock data through charts, and access related news articles using various APIs and web technologies. It's deployed on Google Cloud Platform (GCP).
+This web application allows users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. Deployed on Google Cloud Platform (GCP).
 
 - **Live Deployment:** [Access the application here](https://shubh22022001.wm.r.appspot.com/)
 - **Demo Video:** [Watch the demo](https://drive.google.com/file/d/12Pmdc2FXQZTXS3JNwTU16ug1YSArIrwz/view?usp=sharing)
-- **Technologies Used:** HTML5, CSS3, JavaScript, Python Flask (Backend)
+- **Technologies Used:** HTML5, CSS3, JavaScript, Python Flask as Backend
 
 ---
 
 ### 🏥 OncoNavigator for Roche (Internship) | React.js, Node.js, MySQL
 
-This application visually represents various patient conditions and corresponding treatments to assist doctors in making informed decisions, which also helps improve patient retention rates. It was developed for [Roche](https://www.roche.com/), a multinational corporation in the pharmaceuticals and diagnostics industry.
+This tool visually describes various patient conditions and their corresponding treatments, helping doctors make accurate decisions and improving patient retention rates. The application was developed for [Roche](https://www.roche.com/), a multinational corporation based in Switzerland operating in the pharmaceuticals and diagnostics industry.
 
 - **Deployed at:** [Access OncoNavigator](https://test.onconavigator.in/) (*currently maintained by Roche and may require internal credentials*)
 
@@ -75,19 +76,19 @@ This application visually represents various patient conditions and correspondin
 
 ### 🎤 Haematocon Event (Internship)
 
-Developed for River Route Creative Group, LLP Mumbai during my internship, this website showcases my web development skills and interests.
+Founded and built this website for River Route Creative Group, LLP Mumbai during my internship to showcase my skills and interests in web development.
 
 - **Live Deployment:** [Access the Haematocon website](https://haematocon2023.com)
-- **Note:** The site is no longer under my control. If you encounter a security warning in Chrome, it may be due to an expired SSL certificate.
+- **Note:** The site is no longer under my control, and if you encounter a security warning in Chrome, it may be due to an expired SSL certificate.
 
 ---
 
 ### 🌊 River Route Website (Internship)
 
-This website was built for River Route Creative Group, LLP Mumbai during my internship, serving as one of my first projects alongside my undergraduate academic work.
+Founded and built this website for River Route Creative Group, LLP Mumbai during my internship. It was one of my first websites, built alongside my undergraduate academic work.
 
-- **Deployed at:** [Visit River Route Creative Group](https://www.riverroute.in/)
-- **Key Features:** Custom design, responsive layout, user-friendly navigation, and a content management system.
+- **Deployed at:** [River Route Creative Group](https://www.riverroute.in/)
+- **Key Features:** Custom design, responsive layout, user-friendly navigation, content management system.
 - **Technologies Used:** HTML5, CSS3, JavaScript, Bootstrap
 
 ---
@@ -97,7 +98,7 @@ This website was built for River Route Creative Group, LLP Mumbai during my inte
 - **💻 Coding Enthusiast:** I have a strong foundation in various programming languages and frameworks.
 - **💡 Passion-Driven:** I code for the love of it, with money being a discretionary factor.
 - **🥑 Lifestyle:** Outside of coding, I enjoy cooking delicious meals and staying fit through calisthenics.
-- **💪 Fitness Buff:** I have a strong base in calisthenics, with expertise in bodyweight training.
+- **💪 Fitness Buff:** I have expertise in bodyweight training and calisthenics.
 
 ---
 
