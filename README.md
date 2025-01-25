@@ -17,7 +17,7 @@ While I do appreciate the value of monetary compensation, my main drive comes fr
 
 **Live Demo & Resources:**
 - [Demo Video](https://drive.google.com/file/d/1RwTzVMQGPPdLmhJzjZISZDD7EmHEtHNV/view?usp=drive_link)  
-- [GitHub Repository](https://github.com/shubhambafna3/StockSearch-iOS)  
+- [GitHub Repository](https://github.com/shubhamBafna22022001/StockSearch-iOS)  
 
 **Screenshots**
 For a detailed walkthrough and **screenshots**, check out the [GitHub repository](https://github.com/shubhambafna3/StockSearch-iOS).
