@@ -11,6 +11,21 @@ While I do appreciate the value of monetary compensation, my main drive comes fr
 
 ---
 
+### 🍎 StockSearch-iOS | SwiftUI, Node.js, MongoDB, WebKit
+
+**StockSearch-iOS** is a fully native iOS application designed to help users track real-time stock information, manage a virtual stock portfolio, follow financial news, and analyze market trends. It uses **SwiftUI 5** and **Node.js** for backend integration with **Finnhub APIs** and **MongoDB** for user data storage.
+
+**Live Demo & Resources:**
+- [Demo Video](https://drive.google.com/file/d/1RwTzVMQGPPdLmhJzjZISZDD7EmHEtHNV/view?usp=drive_link)  
+- [GitHub Repository](https://github.com/shubhambafna3/StockSearch-iOS)  
+
+**Screenshots**
+For a detailed walkthrough and **screenshots**, check out the [GitHub repository](https://github.com/shubhambafna3/StockSearch-iOS).
+
+This project showcases my expertise in **iOS development**, **backend integration**, and crafting a seamless user experience. Check it out for an example of my ability to deliver production-ready applications! 🚀
+
+---
+
 ### 🚀 StockSearch-MEAN-stack | Angular.js, Node.js
 
 StockSearch-MEAN-stack is a responsive web app hosted on Google Cloud Platform (GCP) that allows users to search for stock information, manage watchlists, and track portfolios. It uses a tech stack consisting of HTML5, Bootstrap, Angular, Angular Material, Node.js, Express.js, Finnhub API, Polygon.io API, Highcharts API, and MongoDB Atlas.
