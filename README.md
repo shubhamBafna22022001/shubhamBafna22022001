@@ -17,10 +17,7 @@ While I do appreciate the value of monetary compensation, my main drive comes fr
 
 **Live Demo & Resources:**
 - [Demo Video](https://drive.google.com/file/d/1RwTzVMQGPPdLmhJzjZISZDD7EmHEtHNV/view?usp=drive_link)  
-- [GitHub Repository](https://github.com/shubhamBafna22022001/StockSearch-iOS)  
-
-**Screenshots**
-For a detailed walkthrough and **screenshots**, check out the [GitHub repository](https://github.com/shubhambafna3/StockSearch-iOS).
+- For screenshots and detailed walkthroughs, visit the [GitHub repository](https://github.com/shubhamBafna22022001/StockSearch-iOS).
 
 This project showcases my expertise in **iOS development**, **backend integration**, and crafting a seamless user experience. Check it out for an example of my ability to deliver production-ready applications! 🚀
 
