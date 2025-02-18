@@ -21,7 +21,7 @@ While I do appreciate the value of monetary compensation, my main drive comes fr
 
 This project showcases my expertise in **iOS development**, **backend integration**, and crafting a seamless user experience. Check it out for an example of my ability to deliver production-ready applications! 🚀
 
----
+----
 
 ### 🚀 StockSearch-MEAN-stack | Angular.js, Node.js
 
