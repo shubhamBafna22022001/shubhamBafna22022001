@@ -27,7 +27,7 @@ This project showcases my expertise in **iOS development**, **backend integratio
 
 StockSearch-MEAN-stack is a responsive web app hosted on Google Cloud Platform (GCP) that allows users to search for stock information, manage watchlists, and track portfolios. It uses a tech stack consisting of HTML5, Bootstrap, Angular, Angular Material, Node.js, Express.js, Finnhub API, Polygon.io API, Highcharts API, and MongoDB Atlas.
 
-- **Live deployment:** [StockSearch-MEAN-stack](https://shubhie22.wm.r.appspot.com/)
+- **Live deployment:** [StockSearch-MEAN-stack](https://bafna-stockmean.wl.r.appspot.com/)
 - **Demo video:** [Watch the demo](https://drive.google.com/file/d/1mWc04X7vy8GwKkTgFgsLHIKvuCygMoro/view?usp=sharing)
 - **Responsive Demo:** [Watch the demo](https://drive.google.com/file/d/17z5bImuNK6So0WQ0mdNiFz0bGUj-sEZR/view?usp=sharing)
 
@@ -73,7 +73,7 @@ For comprehensive details and documentation, please refer to the repository:
 
 This web application allows users to search for stock information, visualize stock data through charts, and access relevant news articles using various APIs and web technologies. Deployed on Google Cloud Platform (GCP).
 
-- **Live Deployment:** [Access the application here](https://shubh22022001.wm.r.appspot.com/)
+- **Live Deployment:** [Access the application here](https://bafna-stocksearch.wl.r.appspot.com/)
 - **Demo Video:** [Watch the demo](https://drive.google.com/file/d/12Pmdc2FXQZTXS3JNwTU16ug1YSArIrwz/view?usp=sharing)
 - **Technologies Used:** HTML5, CSS3, JavaScript, Python Flask as Backend
 
