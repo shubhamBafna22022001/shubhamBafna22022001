@@ -11,6 +11,23 @@ While I do appreciate the value of monetary compensation, my main drive comes fr
 
 ---
 
+## 🧠 Systems Projects (C/C++ / x86-64 / Kernel / QEMU)
+
+I’ve also worked on several systems-level projects focused on operating systems, low-level memory management, and telemetry.
+
+- 🗃 **[kvstore-raft-cpp](https://github.com/shubhamBafna22022001/kvstore-raft-cpp)**  
+  A distributed key-value store built in C++ using the Raft consensus algorithm, LevelDB-style storage, and gRPC-based communication.
+
+- 🧵 **[virtual-memory-manager-enhancements](https://github.com/shubhamBafna22022001/virtual-memory-manager-enhancements)**  
+  A teaching OS (xv6) extended with copy-on-write, demand paging, crash dump facility, and perf-based benchmarking.
+
+- 🧩 **[win-kernel-etw-telemetry-driver](https://github.com/shubhamBafna22022001/win-kernel-etw-telemetry-driver)**  
+  A Windows kernel-mode telemetry driver using ETW to stream system counters like CPU, memory, and I/O — aligned with HLK and WinDbg tools.
+
+> 🔒 These repos are public, but source access may be limited to employers. Please contact me for code samples or walkthroughs.
+
+---
+
 ### 🍎 StockSearch-iOS | SwiftUI, Node.js, MongoDB, WebKit
 
 **StockSearch-iOS** is a fully native iOS application designed to help users track real-time stock information, manage a virtual stock portfolio, follow financial news, and analyze market trends. It uses **SwiftUI 5** and **Node.js** for backend integration with **Finnhub APIs** and **MongoDB** for user data storage.
