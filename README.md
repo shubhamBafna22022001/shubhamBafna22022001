@@ -68,9 +68,9 @@ StockSearch-Android is a mobile application that complements the StockSearch-MEA
 
 ---
 
-### 👶 Maby – Baby Tracker for iOS/watchOS
+### 👶 My-Baby (Maby) – Baby Tracker for iOS/watchOS
 
-Maby is an intuitive baby tracking app designed to help parents monitor their baby's daily routines—sleep, feedings, diaper changes, and more. Developed for both iOS and watchOS, this open-source project provides a convenient solution to those everyday questions like _"How many times did my baby pee today?"_, making parental life a little easier.
+My-Baby is an intuitive baby tracking app designed to help parents monitor their baby's daily routines—sleep, feedings, diaper changes, and more. Developed for both iOS and watchOS, this open-source project provides a convenient solution to those everyday questions like _"How many times did my baby pee today?"_, making parental life a little easier.
 
 **Key Features:**
 - **Real-Time Tracking:** Quickly log sleep, feedings, and diaper changes.
