@@ -18,9 +18,6 @@ I’ve also worked on several systems-level projects focused on operating system
 - 🗃 **[kvstore-raft-cpp](https://github.com/shubhamBafna22022001/kvstore-raft-cpp)**  
   A distributed key-value store built in C++ using the Raft consensus algorithm, LevelDB-style storage, and gRPC-based communication.
 
-- 🧵 **[virtual-memory-manager-enhancements](https://github.com/shubhamBafna22022001/virtual-memory-manager-enhancements)**  
-  A teaching OS (xv6) extended with copy-on-write, demand paging, crash dump facility, and perf-based benchmarking.
-
 - 🧩 **[win-kernel-etw-telemetry-driver](https://github.com/shubhamBafna22022001/win-kernel-etw-telemetry-driver)**  
   A Windows kernel-mode telemetry driver using ETW to stream system counters like CPU, memory, and I/O — aligned with HLK and WinDbg tools.
 
